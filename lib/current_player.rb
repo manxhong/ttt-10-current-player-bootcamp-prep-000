@@ -14,6 +14,7 @@ def current_player(board)
   end
   else
     "O"
+  end
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
