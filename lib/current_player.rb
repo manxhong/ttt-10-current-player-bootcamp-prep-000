@@ -13,7 +13,7 @@ def current_player(board)
     "X"
   end
 else
-    "O"
+  "O"
 end
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
